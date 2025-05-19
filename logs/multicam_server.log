@@ -1,0 +1,292 @@
+2025-04-21 16:41:15 - INFO -  [INFO] loading encodings...
+2025-04-22 10:11:25 - INFO -  [INFO] loading encodings...
+2025-04-22 10:11:27 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:11:27 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:11:51 - INFO -  127.0.0.1 - - [22/Apr/2025 10:11:51] "GET / HTTP/1.1" 200 -
+2025-04-22 10:11:52 - INFO -  127.0.0.1 - - [22/Apr/2025 10:11:52] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:11:52 - INFO -  127.0.0.1 - - [22/Apr/2025 10:11:52] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-22 10:11:53 - INFO -  127.0.0.1 - - [22/Apr/2025 10:11:53] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:11:54 - INFO -  127.0.0.1 - - [22/Apr/2025 10:11:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-22 10:12:45 - INFO -  127.0.0.1 - - [22/Apr/2025 10:12:45] "POST /submit HTTP/1.1" 200 -
+2025-04-22 10:12:54 - INFO -  127.0.0.1 - - [22/Apr/2025 10:12:54] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2025-04-22 10:27:56 - INFO -  [INFO] loading encodings...
+2025-04-22 10:27:56 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:27:56 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:28:49 - INFO -  127.0.0.1 - - [22/Apr/2025 10:28:49] "GET / HTTP/1.1" 200 -
+2025-04-22 10:28:49 - INFO -  127.0.0.1 - - [22/Apr/2025 10:28:49] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:28:49 - INFO -  127.0.0.1 - - [22/Apr/2025 10:28:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 10:28:52 - INFO -  127.0.0.1 - - [22/Apr/2025 10:28:52] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:41:12 - INFO -  [INFO] loading encodings...
+2025-04-22 10:41:13 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:41:13 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:41:22 - INFO -  127.0.0.1 - - [22/Apr/2025 10:41:22] "GET / HTTP/1.1" 200 -
+2025-04-22 10:41:23 - INFO -  127.0.0.1 - - [22/Apr/2025 10:41:23] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:41:23 - INFO -  127.0.0.1 - - [22/Apr/2025 10:41:23] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-22 10:41:26 - INFO -  127.0.0.1 - - [22/Apr/2025 10:41:26] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:45:36 - INFO -  127.0.0.1 - - [22/Apr/2025 10:45:36] "GET / HTTP/1.1" 200 -
+2025-04-22 10:45:36 - INFO -  127.0.0.1 - - [22/Apr/2025 10:45:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 10:46:19 - INFO -  [INFO] loading encodings...
+2025-04-22 10:46:20 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:46:20 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:46:26 - INFO -  127.0.0.1 - - [22/Apr/2025 10:46:26] "GET / HTTP/1.1" 200 -
+2025-04-22 10:46:27 - INFO -  127.0.0.1 - - [22/Apr/2025 10:46:27] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:46:27 - INFO -  127.0.0.1 - - [22/Apr/2025 10:46:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 10:46:28 - INFO -  127.0.0.1 - - [22/Apr/2025 10:46:28] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:48:06 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:06] "GET / HTTP/1.1" 200 -
+2025-04-22 10:48:06 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:06] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:48:06 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 10:48:10 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:10] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:48:39 - INFO -  [INFO] loading encodings...
+2025-04-22 10:48:40 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:48:40 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:48:45 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:45] "GET / HTTP/1.1" 200 -
+2025-04-22 10:48:45 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:45] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:48:45 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 10:48:46 - INFO -  127.0.0.1 - - [22/Apr/2025 10:48:46] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:51:43 - INFO -  [INFO] loading encodings...
+2025-04-22 10:51:43 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:51:43 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:51:52 - INFO -  127.0.0.1 - - [22/Apr/2025 10:51:52] "GET / HTTP/1.1" 200 -
+2025-04-22 10:51:52 - INFO -  127.0.0.1 - - [22/Apr/2025 10:51:52] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:51:52 - INFO -  127.0.0.1 - - [22/Apr/2025 10:51:52] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-22 10:51:55 - INFO -  127.0.0.1 - - [22/Apr/2025 10:51:55] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 10:54:05 - INFO -  [INFO] loading encodings...
+2025-04-22 10:54:05 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 10:54:05 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 10:54:15 - INFO -  127.0.0.1 - - [22/Apr/2025 10:54:15] "GET / HTTP/1.1" 200 -
+2025-04-22 10:54:16 - INFO -  127.0.0.1 - - [22/Apr/2025 10:54:16] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 10:54:16 - INFO -  127.0.0.1 - - [22/Apr/2025 10:54:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 10:54:18 - INFO -  127.0.0.1 - - [22/Apr/2025 10:54:18] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 11:12:33 - INFO -  [INFO] loading encodings...
+2025-04-22 11:12:34 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 11:12:34 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 11:13:00 - INFO -  127.0.0.1 - - [22/Apr/2025 11:13:00] "GET / HTTP/1.1" 200 -
+2025-04-22 11:13:00 - INFO -  127.0.0.1 - - [22/Apr/2025 11:13:00] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-22 11:13:00 - INFO -  127.0.0.1 - - [22/Apr/2025 11:13:00] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 11:13:03 - INFO -  127.0.0.1 - - [22/Apr/2025 11:13:03] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 11:13:06 - INFO -  127.0.0.1 - - [22/Apr/2025 11:13:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-22 12:08:53 - INFO -  [INFO] loading encodings...
+2025-04-22 12:08:53 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.143:5000
+2025-04-22 12:08:53 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 12:09:08 - INFO -  127.0.0.1 - - [22/Apr/2025 12:09:08] "GET / HTTP/1.1" 200 -
+2025-04-22 12:09:08 - INFO -  127.0.0.1 - - [22/Apr/2025 12:09:08] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 12:09:09 - INFO -  127.0.0.1 - - [22/Apr/2025 12:09:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 12:09:11 - INFO -  127.0.0.1 - - [22/Apr/2025 12:09:11] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 15:25:54 - INFO -  127.0.0.1 - - [22/Apr/2025 15:25:54] "GET / HTTP/1.1" 200 -
+2025-04-22 15:25:54 - INFO -  127.0.0.1 - - [22/Apr/2025 15:25:54] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 15:25:54 - INFO -  127.0.0.1 - - [22/Apr/2025 15:25:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 15:25:56 - INFO -  127.0.0.1 - - [22/Apr/2025 15:25:56] "GET /video_processed HTTP/1.1" 200 -
+2025-04-22 15:57:57 - INFO -  [INFO] loading encodings...
+2025-04-22 15:57:58 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.59.140:5000
+2025-04-22 15:57:58 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-22 15:58:04 - INFO -  127.0.0.1 - - [22/Apr/2025 15:58:04] "GET / HTTP/1.1" 200 -
+2025-04-22 15:58:05 - INFO -  127.0.0.1 - - [22/Apr/2025 15:58:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-22 15:58:05 - INFO -  127.0.0.1 - - [22/Apr/2025 15:58:05] "GET /video_raw HTTP/1.1" 200 -
+2025-04-22 15:58:06 - INFO -  127.0.0.1 - - [22/Apr/2025 15:58:06] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 15:16:11 - INFO -  [INFO] loading encodings...
+2025-04-23 15:16:12 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-23 15:16:12 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-23 15:16:26 - INFO -  127.0.0.1 - - [23/Apr/2025 15:16:26] "GET / HTTP/1.1" 200 -
+2025-04-23 15:16:26 - INFO -  127.0.0.1 - - [23/Apr/2025 15:16:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-23 15:16:26 - INFO -  127.0.0.1 - - [23/Apr/2025 15:16:26] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 15:16:28 - INFO -  127.0.0.1 - - [23/Apr/2025 15:16:28] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 15:17:26 - INFO -  127.0.0.1 - - [23/Apr/2025 15:17:26] "POST /submit HTTP/1.1" 200 -
+2025-04-23 15:17:40 - INFO -  127.0.0.1 - - [23/Apr/2025 15:17:40] "POST /submit HTTP/1.1" 200 -
+2025-04-23 15:17:40 - INFO -  127.0.0.1 - - [23/Apr/2025 15:17:40] "POST /submit HTTP/1.1" 200 -
+2025-04-23 15:23:10 - INFO -  [INFO] loading encodings...
+2025-04-23 15:23:10 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-23 15:23:10 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-23 15:23:24 - INFO -  127.0.0.1 - - [23/Apr/2025 15:23:24] "GET / HTTP/1.1" 200 -
+2025-04-23 15:23:24 - INFO -  127.0.0.1 - - [23/Apr/2025 15:23:24] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-23 15:23:24 - INFO -  127.0.0.1 - - [23/Apr/2025 15:23:24] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 15:23:27 - INFO -  127.0.0.1 - - [23/Apr/2025 15:23:27] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 15:23:30 - INFO -  127.0.0.1 - - [23/Apr/2025 15:23:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 16:25:02 - INFO -  [INFO] loading encodings...
+2025-04-23 16:25:03 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-23 16:25:03 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-23 16:25:12 - INFO -  127.0.0.1 - - [23/Apr/2025 16:25:12] "GET / HTTP/1.1" 200 -
+2025-04-23 16:25:12 - INFO -  127.0.0.1 - - [23/Apr/2025 16:25:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-23 16:25:12 - INFO -  127.0.0.1 - - [23/Apr/2025 16:25:12] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 16:25:14 - INFO -  127.0.0.1 - - [23/Apr/2025 16:25:14] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 16:25:17 - INFO -  127.0.0.1 - - [23/Apr/2025 16:25:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 23:08:30 - INFO -  [INFO] loading encodings...
+2025-04-23 23:08:32 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-23 23:08:32 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-23 23:08:44 - INFO -  127.0.0.1 - - [23/Apr/2025 23:08:44] "GET / HTTP/1.1" 200 -
+2025-04-23 23:08:44 - INFO -  127.0.0.1 - - [23/Apr/2025 23:08:44] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 23:08:44 - INFO -  127.0.0.1 - - [23/Apr/2025 23:08:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-23 23:08:45 - INFO -  127.0.0.1 - - [23/Apr/2025 23:08:45] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 23:08:47 - INFO -  127.0.0.1 - - [23/Apr/2025 23:08:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 23:09:26 - ERROR -  Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 324, in execute
+    for data in application_iter:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wsgi.py", line 500, in __next__
+    return self._next()
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wrappers\response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\app.py", line 104, in generate_processed_frames
+    for detection_ in fr_output:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 154, in multi_frame_face_recognition
+    yield from single_frame_face_recognition(frame= img0,
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 87, in single_frame_face_recognition
+    best_match_index = np.argmin(all_matches)
+  File "<__array_function__ internals>", line 180, in argmin
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 1312, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out, **kwds)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 57, in _wrapfunc
+    return bound(*args, **kwds)
+ValueError: attempt to get argmin of an empty sequence
+2025-04-23 23:09:38 - INFO -  127.0.0.1 - - [23/Apr/2025 23:09:38] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2025-04-23 23:09:53 - INFO -  127.0.0.1 - - [23/Apr/2025 23:09:53] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+2025-04-23 23:21:56 - INFO -  [INFO] loading encodings...
+2025-04-23 23:21:56 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-23 23:21:56 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-23 23:22:04 - INFO -  127.0.0.1 - - [23/Apr/2025 23:22:04] "GET / HTTP/1.1" 200 -
+2025-04-23 23:22:04 - INFO -  127.0.0.1 - - [23/Apr/2025 23:22:04] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 23:22:04 - INFO -  127.0.0.1 - - [23/Apr/2025 23:22:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-23 23:22:06 - INFO -  127.0.0.1 - - [23/Apr/2025 23:22:06] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 23:22:46 - ERROR -  Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 324, in execute
+    for data in application_iter:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wsgi.py", line 500, in __next__
+    return self._next()
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wrappers\response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\app.py", line 104, in generate_processed_frames
+    for detection_ in fr_output:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 154, in multi_frame_face_recognition
+    yield from single_frame_face_recognition(frame= img0,
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 87, in single_frame_face_recognition
+    best_match_index = np.argmin(all_matches)
+  File "<__array_function__ internals>", line 180, in argmin
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 1312, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out, **kwds)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 57, in _wrapfunc
+    return bound(*args, **kwds)
+ValueError: attempt to get argmin of an empty sequence
+2025-04-23 23:22:57 - INFO -  127.0.0.1 - - [23/Apr/2025 23:22:57] "POST /submit HTTP/1.1" 200 -
+2025-04-23 23:23:07 - INFO -  127.0.0.1 - - [23/Apr/2025 23:23:07] "POST /submit HTTP/1.1" 200 -
+2025-04-23 23:23:41 - INFO -  127.0.0.1 - - [23/Apr/2025 23:23:41] "GET / HTTP/1.1" 200 -
+2025-04-23 23:23:41 - INFO -  127.0.0.1 - - [23/Apr/2025 23:23:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-23 23:23:42 - INFO -  127.0.0.1 - - [23/Apr/2025 23:23:42] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 23:23:44 - INFO -  127.0.0.1 - - [23/Apr/2025 23:23:44] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 23:23:47 - ERROR -  Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 324, in execute
+    for data in application_iter:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wsgi.py", line 500, in __next__
+    return self._next()
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wrappers\response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\app.py", line 104, in generate_processed_frames
+    for detection_ in fr_output:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 154, in multi_frame_face_recognition
+    yield from single_frame_face_recognition(frame= img0,
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 87, in single_frame_face_recognition
+    best_match_index = np.argmin(all_matches)
+  File "<__array_function__ internals>", line 180, in argmin
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 1312, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out, **kwds)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 57, in _wrapfunc
+    return bound(*args, **kwds)
+ValueError: attempt to get argmin of an empty sequence
+2025-04-23 23:24:32 - INFO -  [INFO] loading encodings...
+2025-04-23 23:24:33 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-23 23:24:33 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-23 23:24:41 - INFO -  127.0.0.1 - - [23/Apr/2025 23:24:41] "GET / HTTP/1.1" 200 -
+2025-04-23 23:24:41 - INFO -  127.0.0.1 - - [23/Apr/2025 23:24:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-23 23:24:41 - INFO -  127.0.0.1 - - [23/Apr/2025 23:24:41] "GET /video_raw HTTP/1.1" 200 -
+2025-04-23 23:24:45 - INFO -  127.0.0.1 - - [23/Apr/2025 23:24:45] "GET /video_processed HTTP/1.1" 200 -
+2025-04-23 23:25:15 - INFO -  127.0.0.1 - - [23/Apr/2025 23:25:15] "POST /submit HTTP/1.1" 200 -
+2025-04-23 23:25:43 - ERROR -  Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\serving.py", line 324, in execute
+    for data in application_iter:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wsgi.py", line 500, in __next__
+    return self._next()
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\werkzeug\wrappers\response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\app.py", line 104, in generate_processed_frames
+    for detection_ in fr_output:
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 154, in multi_frame_face_recognition
+    yield from single_frame_face_recognition(frame= img0,
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\src\dlib_face_recognition.py", line 87, in single_frame_face_recognition
+    best_match_index = np.argmin(all_matches)
+  File "<__array_function__ internals>", line 180, in argmin
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 1312, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out, **kwds)
+  File "C:\Users\Abhay\Desktop\Multi_Person_Face_Recognition\venv\lib\site-packages\numpy\core\fromnumeric.py", line 57, in _wrapfunc
+    return bound(*args, **kwds)
+ValueError: attempt to get argmin of an empty sequence
+2025-04-23 23:26:36 - INFO -  127.0.0.1 - - [23/Apr/2025 23:26:36] "POST /submit HTTP/1.1" 200 -
+2025-04-24 22:25:04 - INFO -  [INFO] loading encodings...
+2025-04-24 22:25:05 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.166.143:5000
+2025-04-24 22:25:05 - INFO -  [33mPress CTRL+C to quit[0m
+2025-04-24 22:25:15 - INFO -  127.0.0.1 - - [24/Apr/2025 22:25:15] "GET / HTTP/1.1" 200 -
+2025-04-24 22:25:15 - INFO -  127.0.0.1 - - [24/Apr/2025 22:25:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-04-24 22:25:15 - INFO -  127.0.0.1 - - [24/Apr/2025 22:25:15] "GET /video_raw HTTP/1.1" 200 -
+2025-04-24 22:25:17 - INFO -  127.0.0.1 - - [24/Apr/2025 22:25:17] "GET /video_processed HTTP/1.1" 200 -
+2025-04-24 22:25:20 - INFO -  127.0.0.1 - - [24/Apr/2025 22:25:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-24 22:26:08 - INFO -  127.0.0.1 - - [24/Apr/2025 22:26:08] "POST /submit HTTP/1.1" 200 -
+2025-04-24 22:28:09 - INFO -  127.0.0.1 - - [24/Apr/2025 22:28:09] "POST /submit HTTP/1.1" 200 -
